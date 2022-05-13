@@ -1,0 +1,649 @@
+Device Id,Title,Price Range,Storage,Storage Id,Storage Unit,Min Price,Max Price,Before Promo Price,Base Min Price,Variation Id,Color Title,Color Variation Id,Has Stock,Sku,Has Device Variation Stock,File Name
+96322,iPhone 13 mini,,128,569,GO,120,815,0,,96316,Midnight,96313,True,13643,True,L+.json
+96322,iPhone 13 mini,,128,569,GO,120,815,0,,96316,Starlight,96314,False,13644,True,L+.json
+96322,iPhone 13 mini,,128,569,GO,120,815,0,,96316,Blue,96316,False,13646,True,L+.json
+96322,iPhone 13 mini,,256,1284,GO,228,939,0,,96320,Midnight,96317,True,13647,True,L+.json
+96322,iPhone 13 mini,,256,1284,GO,228,939,0,,96320,Starlight,96318,False,13648,True,L+.json
+96322,iPhone 13 mini,,256,1284,GO,228,939,0,,96320,Pink,98205,False,13649,True,L+.json
+96322,iPhone 13 mini,,256,1284,GO,228,939,0,,96320,Blue,96320,False,13650,True,L+.json
+96322,iPhone 13 mini,,512,1842,GO,433,1175,0,,96321,Midnight,96321,False,13651,True,L+.json
+96288,iPhone 13,,128,569,GO,209,919,0,,96281,Midnight,96277,True,13631,True,L+.json
+96288,iPhone 13,,128,569,GO,209,919,0,,96281,Starlight,96278,True,13632,True,L+.json
+96288,iPhone 13,,128,569,GO,209,919,0,,96281,Pink,107396,True,13633,True,L+.json
+96288,iPhone 13,,128,569,GO,209,919,0,,96281,Red,96280,True,13634,True,L+.json
+96288,iPhone 13,,128,569,GO,209,919,0,,96281,Blue,96281,True,13635,True,L+.json
+96288,iPhone 13,,256,1284,GO,317,1045,0,,96286,Midnight,96282,True,13636,True,L+.json
+96288,iPhone 13,,256,1284,GO,317,1045,0,,96286,Starlight,96283,True,13637,True,L+.json
+96288,iPhone 13,,256,1284,GO,317,1045,0,,96286,Pink,96284,True,13638,True,L+.json
+96288,iPhone 13,,256,1284,GO,317,1045,0,,96286,Red,96285,True,13639,True,L+.json
+96288,iPhone 13,,256,1284,GO,317,1045,0,,96286,Blue,96286,True,13640,True,L+.json
+96288,iPhone 13,,512,1842,GO,523,1279,0,,96287,Midnight,96287,False,13641,True,L+.json
+96354,iPhone 13 Pro,,128,569,GO,433,1175,0,,96346,Silver,96344,True,13653,True,L+.json
+96354,iPhone 13 Pro,,128,569,GO,433,1175,0,,96346,Graphite,96343,False,13652,True,L+.json
+96354,iPhone 13 Pro,,128,569,GO,433,1175,0,,96346,Gold,96345,True,13654,True,L+.json
+96354,iPhone 13 Pro,,128,569,GO,433,1175,0,,96346,Sierra blue,96346,True,13655,True,L+.json
+96354,iPhone 13 Pro,,256,1284,GO,540,1298,0,,96350,Graphite,96347,True,13656,True,L+.json
+96354,iPhone 13 Pro,,256,1284,GO,540,1298,0,,96350,Silver,96348,True,13657,True,L+.json
+96354,iPhone 13 Pro,,256,1284,GO,540,1298,0,,96350,Gold,96349,True,13658,True,L+.json
+96354,iPhone 13 Pro,,256,1284,GO,540,1298,0,,96350,Sierra blue,96350,True,13659,True,L+.json
+96354,iPhone 13 Pro,,512,1842,GO,746,1535,0,,96352,Graphite,96351,True,13660,True,L+.json
+96354,iPhone 13 Pro,,512,1842,GO,746,1535,0,,96352,Sierra blue,96352,True,13661,True,L+.json
+96354,iPhone 13 Pro,,1,1894,TO,951,1771,0,,96353,Graphite,96353,True,13662,True,L+.json
+96390,iPhone 13 Pro Max,,128,569,GO,523,1279,0,,96382,Graphite,96379,True,13663,True,L+.json
+96390,iPhone 13 Pro Max,,128,569,GO,523,1279,0,,96382,Silver,96380,True,13664,True,L+.json
+96390,iPhone 13 Pro Max,,128,569,GO,523,1279,0,,96382,Gold,96381,True,13665,True,L+.json
+96390,iPhone 13 Pro Max,,128,569,GO,523,1279,0,,96382,Sierra blue,96382,True,13666,True,L+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,629,1405,0,,96386,Graphite,96383,True,13667,True,L+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,629,1405,0,,96386,Silver,96384,True,13668,True,L+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,629,1405,0,,96386,Gold,96385,True,13669,True,L+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,629,1405,0,,96386,Sierra blue,96386,True,13670,True,L+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,835,1639,0,,96388,Graphite,96387,True,13671,True,L+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,835,1639,0,,96388,Sierra blue,96388,True,13672,True,L+.json
+96390,iPhone 13 Pro Max,,1,1894,TO,1041,1875,0,,96389,Graphite,96389,True,13673,True,L+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,401,1139,0,,95489,Black,95486,True,13543,True,L+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,401,1139,0,,95489,White,95487,False,13544,True,L+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,401,1139,0,,95489,Green,95488,False,13545,True,L+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,401,1139,0,,95489,Purple,95489,False,13546,True,L+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1032,1865,0,,97719,Green,97718,True,13548,True,L+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1032,1865,0,,97719,Black,97717,False,13547,True,L+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1032,1865,0,,97719,Silver,97719,True,13549,True,L+.json
+36149,iPhone 12,,64,567,GO,120,815,0,,95337,Black,95336,True,13295,True,L+.json
+36149,iPhone 12,,64,567,GO,120,815,0,,95337,White,95337,True,13296,True,L+.json
+36149,iPhone 12,,128,569,GO,165,869,0,,112249,Black,112249,True,13300,True,L+.json
+36284,iPhone 12 Pro,,256,1284,GO,540,1299,0,,100785,Graphite,100783,True,13314,True,L+.json
+36284,iPhone 12 Pro,,256,1284,GO,540,1299,0,,100785,Pacific Blue,100785,True,13317,True,L+.json
+36284,iPhone 12 Pro,,512,1842,GO,746,1535,0,,95367,Graphite,100786,True,13318,True,L+.json
+36284,iPhone 12 Pro,,512,1842,GO,746,1535,0,,95367,Silver,95367,True,13319,True,L+.json
+42463,iPhone 12 Pro Max,,256,1284,GO,629,1405,0,,95417,Graphite,95417,True,13358,True,L+.json
+78049,A74 5G,,128,569,GO,0,299,0,,95474,Black,95474,True,13500,True,L+.json
+77995,Reno 4Z 5G,,128,569,GO,0,299,0,,95465,Black,95465,True,13495,True,L+.json
+100412,4,,256,1284,GO,11,689,0,,112613,Grey,112613,True,13687,True,L+.json
+104827,iPhone 11,,64,567,GO,0,589,0,,104826,Black,104826,False,13337,True,L+.json
+104827,iPhone 11,,128,569,GO,0,645,0,,112252,Black,112252,True,13338,True,L+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,86,779,0,,108764,Graphite,108761,True,13698,True,L+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,86,779,0,,108764,White,108762,True,13699,True,L+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,86,779,0,,108764,Green,108763,True,13700,True,L+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,86,779,0,,108764,Purple,108764,False,13701,True,L+.json
+97330,Reno 6 5G,,128,569,GO,0,505,0,,97329,Black,97329,True,13620,True,L+.json
+97324,Galaxy A03S,,32,565,GO,0,149,0,,97323,Black,97323,True,13619,True,L+.json
+112256,11T,,128,569,GO,0,534,0,,112255,Grey,112255,True,13709,True,L+.json
+91835,Find X3 Neo 5G,,256,1284,GO,68,755,0,,95483,Black,95483,False,13536,False,L+.json
+93039,X10,,64,567,GO,0,289,0,,95534,Green,95534,True,13568,True,L+.json
+60232,Galaxy A32 5G,,128,569,GO,0,295,0,,95456,Black,95456,True,13415,True,L+.json
+77977,Galaxy Xcover 5,,64,567,GO,0,289,0,,95459,Black,95459,True,13454,True,L+.json
+78031,Mi 11 Lite 5G,,128,569,GO,0,389,0,,95469,Green,95469,True,13558,True,L+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Black,95477,True,13531,True,L+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Purple,95478,True,13532,True,L+.json
+92939,P Smart 2021,,128,569,GO,0,225,0,,95531,Black,95531,False,13565,False,L+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Green,95519,True,13561,True,L+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Purple,95520,True,13562,True,L+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Black,95521,True,13563,True,L+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,White,95522,True,13564,True,L+.json
+93021,8050,,16,563,GO,0,219,0,,97320,Graphite,97320,True,13560,True,L+.json
+96322,iPhone 13 mini,,128,569,GO,260,815,0,,96316,Midnight,96313,True,13643,True,M+.json
+96322,iPhone 13 mini,,128,569,GO,260,815,0,,96316,Starlight,96314,False,13644,True,M+.json
+96322,iPhone 13 mini,,128,569,GO,260,815,0,,96316,Blue,96316,False,13646,True,M+.json
+96322,iPhone 13 mini,,256,1284,GO,368,939,0,,96320,Midnight,96317,True,13647,True,M+.json
+96322,iPhone 13 mini,,256,1284,GO,368,939,0,,96320,Starlight,96318,False,13648,True,M+.json
+96322,iPhone 13 mini,,256,1284,GO,368,939,0,,96320,Pink,98205,False,13649,True,M+.json
+96322,iPhone 13 mini,,256,1284,GO,368,939,0,,96320,Blue,96320,False,13650,True,M+.json
+96322,iPhone 13 mini,,512,1842,GO,573,1175,0,,96321,Midnight,96321,False,13651,True,M+.json
+96288,iPhone 13,,128,569,GO,349,919,0,,96281,Midnight,96277,True,13631,True,M+.json
+96288,iPhone 13,,128,569,GO,349,919,0,,96281,Starlight,96278,True,13632,True,M+.json
+96288,iPhone 13,,128,569,GO,349,919,0,,96281,Pink,107396,True,13633,True,M+.json
+96288,iPhone 13,,128,569,GO,349,919,0,,96281,Red,96280,True,13634,True,M+.json
+96288,iPhone 13,,128,569,GO,349,919,0,,96281,Blue,96281,True,13635,True,M+.json
+96288,iPhone 13,,256,1284,GO,457,1045,0,,96286,Midnight,96282,True,13636,True,M+.json
+96288,iPhone 13,,256,1284,GO,457,1045,0,,96286,Starlight,96283,True,13637,True,M+.json
+96288,iPhone 13,,256,1284,GO,457,1045,0,,96286,Pink,96284,True,13638,True,M+.json
+96288,iPhone 13,,256,1284,GO,457,1045,0,,96286,Red,96285,True,13639,True,M+.json
+96288,iPhone 13,,256,1284,GO,457,1045,0,,96286,Blue,96286,True,13640,True,M+.json
+96288,iPhone 13,,512,1842,GO,663,1279,0,,96287,Midnight,96287,False,13641,True,M+.json
+96354,iPhone 13 Pro,,128,569,GO,573,1175,0,,96346,Silver,96344,True,13653,True,M+.json
+96354,iPhone 13 Pro,,128,569,GO,573,1175,0,,96346,Graphite,96343,False,13652,True,M+.json
+96354,iPhone 13 Pro,,128,569,GO,573,1175,0,,96346,Gold,96345,True,13654,True,M+.json
+96354,iPhone 13 Pro,,128,569,GO,573,1175,0,,96346,Sierra blue,96346,True,13655,True,M+.json
+96354,iPhone 13 Pro,,256,1284,GO,680,1298,0,,96350,Graphite,96347,True,13656,True,M+.json
+96354,iPhone 13 Pro,,256,1284,GO,680,1298,0,,96350,Silver,96348,True,13657,True,M+.json
+96354,iPhone 13 Pro,,256,1284,GO,680,1298,0,,96350,Gold,96349,True,13658,True,M+.json
+96354,iPhone 13 Pro,,256,1284,GO,680,1298,0,,96350,Sierra blue,96350,True,13659,True,M+.json
+96354,iPhone 13 Pro,,512,1842,GO,886,1535,0,,96352,Graphite,96351,True,13660,True,M+.json
+96354,iPhone 13 Pro,,512,1842,GO,886,1535,0,,96352,Sierra blue,96352,True,13661,True,M+.json
+96354,iPhone 13 Pro,,1,1894,TO,1091,1771,0,,96353,Graphite,96353,True,13662,True,M+.json
+96390,iPhone 13 Pro Max,,128,569,GO,663,1279,0,,96382,Graphite,96379,True,13663,True,M+.json
+96390,iPhone 13 Pro Max,,128,569,GO,663,1279,0,,96382,Silver,96380,True,13664,True,M+.json
+96390,iPhone 13 Pro Max,,128,569,GO,663,1279,0,,96382,Gold,96381,True,13665,True,M+.json
+96390,iPhone 13 Pro Max,,128,569,GO,663,1279,0,,96382,Sierra blue,96382,True,13666,True,M+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,769,1405,0,,96386,Graphite,96383,True,13667,True,M+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,769,1405,0,,96386,Silver,96384,True,13668,True,M+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,769,1405,0,,96386,Gold,96385,True,13669,True,M+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,769,1405,0,,96386,Sierra blue,96386,True,13670,True,M+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,975,1639,0,,96388,Graphite,96387,True,13671,True,M+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,975,1639,0,,96388,Sierra blue,96388,True,13672,True,M+.json
+96390,iPhone 13 Pro Max,,1,1894,TO,1181,1875,0,,96389,Graphite,96389,True,13673,True,M+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,541,1139,0,,95489,Black,95486,True,13543,True,M+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,541,1139,0,,95489,White,95487,False,13544,True,M+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,541,1139,0,,95489,Green,95488,False,13545,True,M+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,541,1139,0,,95489,Purple,95489,False,13546,True,M+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1172,1865,0,,97719,Green,97718,True,13548,True,M+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1172,1865,0,,97719,Black,97717,False,13547,True,M+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1172,1865,0,,97719,Silver,97719,True,13549,True,M+.json
+36149,iPhone 12,,64,567,GO,260,815,0,,95337,Black,95336,True,13295,True,M+.json
+36149,iPhone 12,,64,567,GO,260,815,0,,95337,White,95337,True,13296,True,M+.json
+36149,iPhone 12,,128,569,GO,305,869,0,,112249,Black,112249,True,13300,True,M+.json
+36284,iPhone 12 Pro,,256,1284,GO,680,1299,0,,100785,Graphite,100783,True,13314,True,M+.json
+36284,iPhone 12 Pro,,256,1284,GO,680,1299,0,,100785,Pacific Blue,100785,True,13317,True,M+.json
+36284,iPhone 12 Pro,,512,1842,GO,886,1535,0,,95367,Graphite,100786,True,13318,True,M+.json
+36284,iPhone 12 Pro,,512,1842,GO,886,1535,0,,95367,Silver,95367,True,13319,True,M+.json
+42463,iPhone 12 Pro Max,,256,1284,GO,769,1405,0,,95417,Graphite,95417,True,13358,True,M+.json
+78049,A74 5G,,128,569,GO,0,299,0,,95474,Black,95474,True,13500,True,M+.json
+77995,Reno 4Z 5G,,128,569,GO,0,299,0,,95465,Black,95465,True,13495,True,M+.json
+100412,4,,256,1284,GO,151,689,0,,112613,Grey,112613,True,13687,True,M+.json
+104827,iPhone 11,,64,567,GO,64,589,0,,104826,Black,104826,False,13337,True,M+.json
+104827,iPhone 11,,128,569,GO,108,645,0,,112252,Black,112252,True,13338,True,M+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,226,779,0,,108764,Graphite,108761,True,13698,True,M+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,226,779,0,,108764,White,108762,True,13699,True,M+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,226,779,0,,108764,Green,108763,True,13700,True,M+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,226,779,0,,108764,Purple,108764,False,13701,True,M+.json
+97330,Reno 6 5G,,128,569,GO,0,505,0,,97329,Black,97329,True,13620,True,M+.json
+97324,Galaxy A03S,,32,565,GO,0,149,0,,97323,Black,97323,True,13619,True,M+.json
+112256,11T,,128,569,GO,15,534,0,,112255,Grey,112255,True,13709,True,M+.json
+91835,Find X3 Neo 5G,,256,1284,GO,208,755,0,,95483,Black,95483,False,13536,False,M+.json
+93039,X10,,64,567,GO,0,289,25,,95534,Green,95534,True,13568,True,M+.json
+60232,Galaxy A32 5G,,128,569,GO,0,295,0,,95456,Black,95456,True,13415,True,M+.json
+77977,Galaxy Xcover 5,,64,567,GO,0,289,0,,95459,Black,95459,True,13454,True,M+.json
+78031,Mi 11 Lite 5G,,128,569,GO,0,389,0,,95469,Green,95469,True,13558,True,M+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Black,95477,True,13531,True,M+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Purple,95478,True,13532,True,M+.json
+92939,P Smart 2021,,128,569,GO,0,225,0,,95531,Black,95531,False,13565,False,M+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Green,95519,True,13561,True,M+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Purple,95520,True,13562,True,M+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Black,95521,True,13563,True,M+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,White,95522,True,13564,True,M+.json
+93021,8050,,16,563,GO,0,219,0,,97320,Graphite,97320,True,13560,True,M+.json
+96322,iPhone 13 mini,,128,569,GO,300,815,0,,96316,Midnight,96313,True,13643,True,S+.json
+96322,iPhone 13 mini,,128,569,GO,300,815,0,,96316,Starlight,96314,False,13644,True,S+.json
+96322,iPhone 13 mini,,128,569,GO,300,815,0,,96316,Blue,96316,False,13646,True,S+.json
+96322,iPhone 13 mini,,256,1284,GO,408,939,0,,96320,Midnight,96317,True,13647,True,S+.json
+96322,iPhone 13 mini,,256,1284,GO,408,939,0,,96320,Starlight,96318,False,13648,True,S+.json
+96322,iPhone 13 mini,,256,1284,GO,408,939,0,,96320,Pink,98205,False,13649,True,S+.json
+96322,iPhone 13 mini,,256,1284,GO,408,939,0,,96320,Blue,96320,False,13650,True,S+.json
+96322,iPhone 13 mini,,512,1842,GO,613,1175,0,,96321,Midnight,96321,False,13651,True,S+.json
+96288,iPhone 13,,128,569,GO,389,919,0,,96281,Midnight,96277,True,13631,True,S+.json
+96288,iPhone 13,,128,569,GO,389,919,0,,96281,Starlight,96278,True,13632,True,S+.json
+96288,iPhone 13,,128,569,GO,389,919,0,,96281,Pink,107396,True,13633,True,S+.json
+96288,iPhone 13,,128,569,GO,389,919,0,,96281,Red,96280,True,13634,True,S+.json
+96288,iPhone 13,,128,569,GO,389,919,0,,96281,Blue,96281,True,13635,True,S+.json
+96288,iPhone 13,,256,1284,GO,497,1045,0,,96286,Midnight,96282,True,13636,True,S+.json
+96288,iPhone 13,,256,1284,GO,497,1045,0,,96286,Starlight,96283,True,13637,True,S+.json
+96288,iPhone 13,,256,1284,GO,497,1045,0,,96286,Pink,96284,True,13638,True,S+.json
+96288,iPhone 13,,256,1284,GO,497,1045,0,,96286,Red,96285,True,13639,True,S+.json
+96288,iPhone 13,,256,1284,GO,497,1045,0,,96286,Blue,96286,True,13640,True,S+.json
+96288,iPhone 13,,512,1842,GO,703,1279,0,,96287,Midnight,96287,False,13641,True,S+.json
+96354,iPhone 13 Pro,,128,569,GO,613,1175,0,,96346,Silver,96344,True,13653,True,S+.json
+96354,iPhone 13 Pro,,128,569,GO,613,1175,0,,96346,Graphite,96343,False,13652,True,S+.json
+96354,iPhone 13 Pro,,128,569,GO,613,1175,0,,96346,Gold,96345,True,13654,True,S+.json
+96354,iPhone 13 Pro,,128,569,GO,613,1175,0,,96346,Sierra blue,96346,True,13655,True,S+.json
+96354,iPhone 13 Pro,,256,1284,GO,720,1298,0,,96350,Graphite,96347,True,13656,True,S+.json
+96354,iPhone 13 Pro,,256,1284,GO,720,1298,0,,96350,Silver,96348,True,13657,True,S+.json
+96354,iPhone 13 Pro,,256,1284,GO,720,1298,0,,96350,Gold,96349,True,13658,True,S+.json
+96354,iPhone 13 Pro,,256,1284,GO,720,1298,0,,96350,Sierra blue,96350,True,13659,True,S+.json
+96354,iPhone 13 Pro,,512,1842,GO,926,1535,0,,96352,Graphite,96351,True,13660,True,S+.json
+96354,iPhone 13 Pro,,512,1842,GO,926,1535,0,,96352,Sierra blue,96352,True,13661,True,S+.json
+96354,iPhone 13 Pro,,1,1894,TO,1131,1771,0,,96353,Graphite,96353,True,13662,True,S+.json
+96390,iPhone 13 Pro Max,,128,569,GO,703,1279,0,,96382,Graphite,96379,True,13663,True,S+.json
+96390,iPhone 13 Pro Max,,128,569,GO,703,1279,0,,96382,Silver,96380,True,13664,True,S+.json
+96390,iPhone 13 Pro Max,,128,569,GO,703,1279,0,,96382,Gold,96381,True,13665,True,S+.json
+96390,iPhone 13 Pro Max,,128,569,GO,703,1279,0,,96382,Sierra blue,96382,True,13666,True,S+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,809,1405,0,,96386,Graphite,96383,True,13667,True,S+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,809,1405,0,,96386,Silver,96384,True,13668,True,S+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,809,1405,0,,96386,Gold,96385,True,13669,True,S+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,809,1405,0,,96386,Sierra blue,96386,True,13670,True,S+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,1015,1639,0,,96388,Graphite,96387,True,13671,True,S+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,1015,1639,0,,96388,Sierra blue,96388,True,13672,True,S+.json
+96390,iPhone 13 Pro Max,,1,1894,TO,1221,1875,0,,96389,Graphite,96389,True,13673,True,S+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,581,1139,0,,95489,Black,95486,True,13543,True,S+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,581,1139,0,,95489,White,95487,False,13544,True,S+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,581,1139,0,,95489,Green,95488,False,13545,True,S+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,581,1139,0,,95489,Purple,95489,False,13546,True,S+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1212,1865,0,,97719,Green,97718,True,13548,True,S+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1212,1865,0,,97719,Black,97717,False,13547,True,S+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,1212,1865,0,,97719,Silver,97719,True,13549,True,S+.json
+36149,iPhone 12,,64,567,GO,300,815,0,,95337,Black,95336,True,13295,True,S+.json
+36149,iPhone 12,,64,567,GO,300,815,0,,95337,White,95337,True,13296,True,S+.json
+36149,iPhone 12,,128,569,GO,345,869,0,,112249,Black,112249,True,13300,True,S+.json
+36284,iPhone 12 Pro,,256,1284,GO,720,1299,0,,100785,Graphite,100783,True,13314,True,S+.json
+36284,iPhone 12 Pro,,256,1284,GO,720,1299,0,,100785,Pacific Blue,100785,True,13317,True,S+.json
+36284,iPhone 12 Pro,,512,1842,GO,926,1535,0,,95367,Graphite,100786,True,13318,True,S+.json
+36284,iPhone 12 Pro,,512,1842,GO,926,1535,0,,95367,Silver,95367,True,13319,True,S+.json
+42463,iPhone 12 Pro Max,,256,1284,GO,809,1405,0,,95417,Graphite,95417,True,13358,True,S+.json
+78049,A74 5G,,128,569,GO,0,299,0,,95474,Black,95474,True,13500,True,S+.json
+77995,Reno 4Z 5G,,128,569,GO,0,299,75,,95465,Black,95465,True,13495,True,S+.json
+100412,4,,256,1284,GO,191,689,0,,112613,Grey,112613,True,13687,True,S+.json
+104827,iPhone 11,,64,567,GO,104,589,0,,104826,Black,104826,False,13337,True,S+.json
+104827,iPhone 11,,128,569,GO,148,645,0,,112252,Black,112252,True,13338,True,S+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,266,779,0,,108764,Graphite,108761,True,13698,True,S+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,266,779,0,,108764,White,108762,True,13699,True,S+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,266,779,0,,108764,Green,108763,True,13700,True,S+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,266,779,0,,108764,Purple,108764,False,13701,True,S+.json
+97330,Reno 6 5G,,128,569,GO,28,505,0,,97329,Black,97329,True,13620,True,S+.json
+97324,Galaxy A03S,,32,565,GO,0,149,0,,97323,Black,97323,True,13619,True,S+.json
+112256,11T,,128,569,GO,55,534,0,,112255,Grey,112255,True,13709,True,S+.json
+91835,Find X3 Neo 5G,,256,1284,GO,248,755,0,,95483,Black,95483,False,13536,False,S+.json
+93039,X10,,64,567,GO,0,289,0,,95534,Green,95534,True,13568,True,S+.json
+60232,Galaxy A32 5G,,128,569,GO,0,295,0,,95456,Black,95456,True,13415,True,S+.json
+77977,Galaxy Xcover 5,,64,567,GO,0,289,59,,95459,Black,95459,True,13454,True,S+.json
+78031,Mi 11 Lite 5G,,128,569,GO,0,389,0,,95469,Green,95469,True,13558,True,S+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Black,95477,True,13531,True,S+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Purple,95478,True,13532,True,S+.json
+92939,P Smart 2021,,128,569,GO,0,225,0,,95531,Black,95531,False,13565,False,S+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Green,95519,True,13561,True,S+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Purple,95520,True,13562,True,S+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Black,95521,True,13563,True,S+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,White,95522,True,13564,True,S+.json
+93021,8050,,16,563,GO,0,219,0,,97320,Graphite,97320,True,13560,True,S+.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Midnight,96313,True,13643,True,share.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Starlight,96314,False,13644,True,share.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Blue,96316,False,13646,True,share.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Midnight,96317,True,13647,True,share.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Starlight,96318,False,13648,True,share.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Pink,98205,False,13649,True,share.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Blue,96320,False,13650,True,share.json
+96322,iPhone 13 mini,,512,1842,GO,323,1175,0,,96321,Midnight,96321,False,13651,True,share.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Midnight,96277,True,13631,True,share.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Starlight,96278,True,13632,True,share.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Pink,107396,True,13633,True,share.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Red,96280,True,13634,True,share.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Blue,96281,True,13635,True,share.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Midnight,96282,True,13636,True,share.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Starlight,96283,True,13637,True,share.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Pink,96284,True,13638,True,share.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Red,96285,True,13639,True,share.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Blue,96286,True,13640,True,share.json
+96288,iPhone 13,,512,1842,GO,413,1279,0,,96287,Midnight,96287,False,13641,True,share.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Silver,96344,True,13653,True,share.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Graphite,96343,False,13652,True,share.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Gold,96345,True,13654,True,share.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Sierra blue,96346,True,13655,True,share.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Graphite,96347,True,13656,True,share.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Silver,96348,True,13657,True,share.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Gold,96349,True,13658,True,share.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Sierra blue,96350,True,13659,True,share.json
+96354,iPhone 13 Pro,,512,1842,GO,636,1535,0,,96352,Graphite,96351,True,13660,True,share.json
+96354,iPhone 13 Pro,,512,1842,GO,636,1535,0,,96352,Sierra blue,96352,True,13661,True,share.json
+96354,iPhone 13 Pro,,1,1894,TO,841,1771,0,,96353,Graphite,96353,True,13662,True,share.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Graphite,96379,True,13663,True,share.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Silver,96380,True,13664,True,share.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Gold,96381,True,13665,True,share.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Sierra blue,96382,True,13666,True,share.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Graphite,96383,True,13667,True,share.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Silver,96384,True,13668,True,share.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Gold,96385,True,13669,True,share.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Sierra blue,96386,True,13670,True,share.json
+96390,iPhone 13 Pro Max,,512,1842,GO,725,1639,0,,96388,Graphite,96387,True,13671,True,share.json
+96390,iPhone 13 Pro Max,,512,1842,GO,725,1639,0,,96388,Sierra blue,96388,True,13672,True,share.json
+96390,iPhone 13 Pro Max,,1,1894,TO,931,1875,0,,96389,Graphite,96389,True,13673,True,share.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Black,95486,True,13543,True,share.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,White,95487,False,13544,True,share.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Green,95488,False,13545,True,share.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Purple,95489,False,13546,True,share.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Green,97718,True,13548,True,share.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Black,97717,False,13547,True,share.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Silver,97719,True,13549,True,share.json
+36149,iPhone 12,,64,567,GO,0,815,0,,95337,Black,95336,True,13295,True,share.json
+36149,iPhone 12,,64,567,GO,0,815,0,,95337,White,95337,True,13296,True,share.json
+36149,iPhone 12,,128,569,GO,55,869,0,,112249,Black,112249,True,13300,True,share.json
+36284,iPhone 12 Pro,,256,1284,GO,430,1299,0,,100785,Graphite,100783,True,13314,True,share.json
+36284,iPhone 12 Pro,,256,1284,GO,430,1299,0,,100785,Pacific Blue,100785,True,13317,True,share.json
+36284,iPhone 12 Pro,,512,1842,GO,636,1535,855,,95367,Graphite,100786,True,13318,True,share.json
+36284,iPhone 12 Pro,,512,1842,GO,636,1535,855,,95367,Silver,95367,True,13319,True,share.json
+42463,iPhone 12 Pro Max,,256,1284,GO,519,1405,0,,95417,Graphite,95417,True,13358,True,share.json
+78049,A74 5G,,128,569,GO,0,299,0,,95474,Black,95474,True,13500,True,share.json
+77995,Reno 4Z 5G,,128,569,GO,0,299,0,,95465,Black,95465,True,13495,True,share.json
+100412,4,,256,1284,GO,0,689,0,,112613,Grey,112613,True,13687,True,share.json
+104827,iPhone 11,,64,567,GO,0,589,0,,104826,Black,104826,False,13337,True,share.json
+104827,iPhone 11,,128,569,GO,0,645,0,,112252,Black,112252,True,13338,True,share.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,69,,108764,Graphite,108761,True,13698,True,share.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,69,,108764,White,108762,True,13699,True,share.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,69,,108764,Green,108763,True,13700,True,share.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,69,,108764,Purple,108764,False,13701,True,share.json
+97330,Reno 6 5G,,128,569,GO,0,505,0,,97329,Black,97329,True,13620,True,share.json
+97324,Galaxy A03S,,32,565,GO,0,149,0,,97323,Black,97323,True,13619,True,share.json
+112256,11T,,128,569,GO,0,534,0,,112255,Grey,112255,True,13709,True,share.json
+91835,Find X3 Neo 5G,,256,1284,GO,0,755,0,,95483,Black,95483,False,13536,False,share.json
+93039,X10,,64,567,GO,0,289,0,,95534,Green,95534,True,13568,True,share.json
+60232,Galaxy A32 5G,,128,569,GO,0,295,0,,95456,Black,95456,True,13415,True,share.json
+77977,Galaxy Xcover 5,,64,567,GO,0,289,0,,95459,Black,95459,True,13454,True,share.json
+78031,Mi 11 Lite 5G,,128,569,GO,0,389,0,,95469,Green,95469,True,13558,True,share.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Black,95477,True,13531,True,share.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Purple,95478,True,13532,True,share.json
+92939,P Smart 2021,,128,569,GO,0,225,0,,95531,Black,95531,False,13565,False,share.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Green,95519,True,13561,True,share.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Purple,95520,True,13562,True,share.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Black,95521,True,13563,True,share.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,White,95522,True,13564,True,share.json
+93021,8050,,16,563,GO,0,219,0,,97320,Graphite,97320,True,13560,True,share.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Midnight,96313,True,13643,True,Unlimited+.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Starlight,96314,False,13644,True,Unlimited+.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Blue,96316,False,13646,True,Unlimited+.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Midnight,96317,True,13647,True,Unlimited+.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Starlight,96318,False,13648,True,Unlimited+.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Pink,98205,False,13649,True,Unlimited+.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Blue,96320,False,13650,True,Unlimited+.json
+96322,iPhone 13 mini,,512,1842,GO,323,1175,0,,96321,Midnight,96321,False,13651,True,Unlimited+.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Midnight,96277,True,13631,True,Unlimited+.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Starlight,96278,True,13632,True,Unlimited+.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Pink,107396,True,13633,True,Unlimited+.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Red,96280,True,13634,True,Unlimited+.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Blue,96281,True,13635,True,Unlimited+.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Midnight,96282,True,13636,True,Unlimited+.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Starlight,96283,True,13637,True,Unlimited+.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Pink,96284,True,13638,True,Unlimited+.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Red,96285,True,13639,True,Unlimited+.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Blue,96286,True,13640,True,Unlimited+.json
+96288,iPhone 13,,512,1842,GO,413,1279,0,,96287,Midnight,96287,False,13641,True,Unlimited+.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Silver,96344,True,13653,True,Unlimited+.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Graphite,96343,False,13652,True,Unlimited+.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Gold,96345,True,13654,True,Unlimited+.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Sierra blue,96346,True,13655,True,Unlimited+.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Graphite,96347,True,13656,True,Unlimited+.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Silver,96348,True,13657,True,Unlimited+.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Gold,96349,True,13658,True,Unlimited+.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Sierra blue,96350,True,13659,True,Unlimited+.json
+96354,iPhone 13 Pro,,512,1842,GO,636,1535,0,,96352,Graphite,96351,True,13660,True,Unlimited+.json
+96354,iPhone 13 Pro,,512,1842,GO,636,1535,0,,96352,Sierra blue,96352,True,13661,True,Unlimited+.json
+96354,iPhone 13 Pro,,1,1894,TO,841,1771,0,,96353,Graphite,96353,True,13662,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Graphite,96379,True,13663,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Silver,96380,True,13664,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Gold,96381,True,13665,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Sierra blue,96382,True,13666,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Graphite,96383,True,13667,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Silver,96384,True,13668,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Gold,96385,True,13669,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Sierra blue,96386,True,13670,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,725,1639,0,,96388,Graphite,96387,True,13671,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,725,1639,0,,96388,Sierra blue,96388,True,13672,True,Unlimited+.json
+96390,iPhone 13 Pro Max,,1,1894,TO,931,1875,0,,96389,Graphite,96389,True,13673,True,Unlimited+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Black,95486,True,13543,True,Unlimited+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,White,95487,False,13544,True,Unlimited+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Green,95488,False,13545,True,Unlimited+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Purple,95489,False,13546,True,Unlimited+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Green,97718,True,13548,True,Unlimited+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Black,97717,False,13547,True,Unlimited+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Silver,97719,True,13549,True,Unlimited+.json
+36149,iPhone 12,,64,567,GO,10,815,0,,95337,Black,95336,True,13295,True,Unlimited+.json
+36149,iPhone 12,,64,567,GO,10,815,0,,95337,White,95337,True,13296,True,Unlimited+.json
+36149,iPhone 12,,128,569,GO,55,869,0,,112249,Black,112249,True,13300,True,Unlimited+.json
+36284,iPhone 12 Pro,,256,1284,GO,430,1299,0,,100785,Graphite,100783,True,13314,True,Unlimited+.json
+36284,iPhone 12 Pro,,256,1284,GO,430,1299,0,,100785,Pacific Blue,100785,True,13317,True,Unlimited+.json
+36284,iPhone 12 Pro,,512,1842,GO,430,1535,855,,95367,Graphite,100786,True,13318,True,Unlimited+.json
+36284,iPhone 12 Pro,,512,1842,GO,430,1535,855,,95367,Silver,95367,True,13319,True,Unlimited+.json
+42463,iPhone 12 Pro Max,,256,1284,GO,519,1405,0,,95417,Graphite,95417,True,13358,True,Unlimited+.json
+78049,A74 5G,,128,569,GO,0,299,0,,95474,Black,95474,True,13500,True,Unlimited+.json
+77995,Reno 4Z 5G,,128,569,GO,0,299,0,,95465,Black,95465,True,13495,True,Unlimited+.json
+100412,4,,256,1284,GO,0,689,0,,112613,Grey,112613,True,13687,True,Unlimited+.json
+104827,iPhone 11,,64,567,GO,0,589,0,,104826,Black,104826,False,13337,True,Unlimited+.json
+104827,iPhone 11,,128,569,GO,0,645,0,,112252,Black,112252,True,13338,True,Unlimited+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Graphite,108761,True,13698,True,Unlimited+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,White,108762,True,13699,True,Unlimited+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Green,108763,True,13700,True,Unlimited+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Purple,108764,False,13701,True,Unlimited+.json
+97330,Reno 6 5G,,128,569,GO,0,505,0,,97329,Black,97329,True,13620,True,Unlimited+.json
+97324,Galaxy A03S,,32,565,GO,0,149,0,,97323,Black,97323,True,13619,True,Unlimited+.json
+112256,11T,,128,569,GO,0,534,0,,112255,Grey,112255,True,13709,True,Unlimited+.json
+91835,Find X3 Neo 5G,,256,1284,GO,0,755,0,,95483,Black,95483,False,13536,False,Unlimited+.json
+93039,X10,,64,567,GO,0,289,0,,95534,Green,95534,True,13568,True,Unlimited+.json
+60232,Galaxy A32 5G,,128,569,GO,0,295,0,,95456,Black,95456,True,13415,True,Unlimited+.json
+77977,Galaxy Xcover 5,,64,567,GO,0,289,0,,95459,Black,95459,True,13454,True,Unlimited+.json
+78031,Mi 11 Lite 5G,,128,569,GO,0,389,0,,95469,Green,95469,True,13558,True,Unlimited+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Black,95477,True,13531,True,Unlimited+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Purple,95478,True,13532,True,Unlimited+.json
+92939,P Smart 2021,,128,569,GO,0,225,0,,95531,Black,95531,False,13565,False,Unlimited+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Green,95519,True,13561,True,Unlimited+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Purple,95520,True,13562,True,Unlimited+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Black,95521,True,13563,True,Unlimited+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,White,95522,True,13564,True,Unlimited+.json
+93021,8050,,16,563,GO,0,219,0,,97320,Graphite,97320,True,13560,True,Unlimited+.json
+96322,iPhone 13 mini,,128,569,GO,0,815,0,,96316,Midnight,96313,True,13643,True,UnlimitedExtra+.json
+96322,iPhone 13 mini,,128,569,GO,0,815,0,,96316,Starlight,96314,False,13644,True,UnlimitedExtra+.json
+96322,iPhone 13 mini,,128,569,GO,0,815,0,,96316,Blue,96316,False,13646,True,UnlimitedExtra+.json
+96322,iPhone 13 mini,,256,1284,GO,0,939,0,,96320,Midnight,96317,True,13647,True,UnlimitedExtra+.json
+96322,iPhone 13 mini,,256,1284,GO,0,939,0,,96320,Starlight,96318,False,13648,True,UnlimitedExtra+.json
+96322,iPhone 13 mini,,256,1284,GO,0,939,0,,96320,Pink,98205,False,13649,True,UnlimitedExtra+.json
+96322,iPhone 13 mini,,256,1284,GO,0,939,0,,96320,Blue,96320,False,13650,True,UnlimitedExtra+.json
+96322,iPhone 13 mini,,512,1842,GO,154,1175,0,,96321,Midnight,96321,False,13651,True,UnlimitedExtra+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Midnight,96277,True,13631,True,UnlimitedExtra+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Starlight,96278,True,13632,True,UnlimitedExtra+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Pink,107396,True,13633,True,UnlimitedExtra+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Red,96280,True,13634,True,UnlimitedExtra+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Blue,96281,True,13635,True,UnlimitedExtra+.json
+96288,iPhone 13,,256,1284,GO,38,1045,0,,96286,Midnight,96282,True,13636,True,UnlimitedExtra+.json
+96288,iPhone 13,,256,1284,GO,38,1045,0,,96286,Starlight,96283,True,13637,True,UnlimitedExtra+.json
+96288,iPhone 13,,256,1284,GO,38,1045,0,,96286,Pink,96284,True,13638,True,UnlimitedExtra+.json
+96288,iPhone 13,,256,1284,GO,38,1045,0,,96286,Red,96285,True,13639,True,UnlimitedExtra+.json
+96288,iPhone 13,,256,1284,GO,38,1045,0,,96286,Blue,96286,True,13640,True,UnlimitedExtra+.json
+96288,iPhone 13,,512,1842,GO,244,1279,0,,96287,Midnight,96287,False,13641,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,128,569,GO,154,1175,0,,96346,Silver,96344,True,13653,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,128,569,GO,154,1175,0,,96346,Graphite,96343,False,13652,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,128,569,GO,154,1175,0,,96346,Gold,96345,True,13654,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,128,569,GO,154,1175,0,,96346,Sierra blue,96346,True,13655,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,256,1284,GO,262,1298,0,,96350,Graphite,96347,True,13656,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,256,1284,GO,262,1298,0,,96350,Silver,96348,True,13657,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,256,1284,GO,262,1298,0,,96350,Gold,96349,True,13658,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,256,1284,GO,262,1298,0,,96350,Sierra blue,96350,True,13659,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,512,1842,GO,467,1535,0,,96352,Graphite,96351,True,13660,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,512,1842,GO,467,1535,0,,96352,Sierra blue,96352,True,13661,True,UnlimitedExtra+.json
+96354,iPhone 13 Pro,,1,1894,TO,672,1771,0,,96353,Graphite,96353,True,13662,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,128,569,GO,244,1279,0,,96382,Graphite,96379,True,13663,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,128,569,GO,244,1279,0,,96382,Silver,96380,True,13664,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,128,569,GO,244,1279,0,,96382,Gold,96381,True,13665,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,128,569,GO,244,1279,0,,96382,Sierra blue,96382,True,13666,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,350,1405,0,,96386,Graphite,96383,True,13667,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,350,1405,0,,96386,Silver,96384,True,13668,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,350,1405,0,,96386,Gold,96385,True,13669,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,350,1405,0,,96386,Sierra blue,96386,True,13670,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,556,1639,0,,96388,Graphite,96387,True,13671,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,556,1639,0,,96388,Sierra blue,96388,True,13672,True,UnlimitedExtra+.json
+96390,iPhone 13 Pro Max,,1,1894,TO,762,1875,0,,96389,Graphite,96389,True,13673,True,UnlimitedExtra+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,122,1139,0,,95489,Black,95486,True,13543,True,UnlimitedExtra+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,122,1139,0,,95489,White,95487,False,13544,True,UnlimitedExtra+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,122,1139,0,,95489,Green,95488,False,13545,True,UnlimitedExtra+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,122,1139,0,,95489,Purple,95489,False,13546,True,UnlimitedExtra+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,753,1865,0,,97719,Green,97718,True,13548,True,UnlimitedExtra+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,753,1865,0,,97719,Black,97717,False,13547,True,UnlimitedExtra+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,753,1865,0,,97719,Silver,97719,True,13549,True,UnlimitedExtra+.json
+36149,iPhone 12,,64,567,GO,0,815,0,,95337,Black,95336,True,13295,True,UnlimitedExtra+.json
+36149,iPhone 12,,64,567,GO,0,815,0,,95337,White,95337,True,13296,True,UnlimitedExtra+.json
+36149,iPhone 12,,128,569,GO,0,869,0,,112249,Black,112249,True,13300,True,UnlimitedExtra+.json
+36284,iPhone 12 Pro,,256,1284,GO,262,1299,0,,100785,Graphite,100783,True,13314,True,UnlimitedExtra+.json
+36284,iPhone 12 Pro,,256,1284,GO,262,1299,0,,100785,Pacific Blue,100785,True,13317,True,UnlimitedExtra+.json
+36284,iPhone 12 Pro,,512,1842,GO,262,1535,689,,95367,Graphite,100786,True,13318,True,UnlimitedExtra+.json
+36284,iPhone 12 Pro,,512,1842,GO,262,1535,689,,95367,Silver,95367,True,13319,True,UnlimitedExtra+.json
+42463,iPhone 12 Pro Max,,256,1284,GO,350,1405,0,,95417,Graphite,95417,True,13358,True,UnlimitedExtra+.json
+78049,A74 5G,,128,569,GO,0,299,0,,95474,Black,95474,True,13500,True,UnlimitedExtra+.json
+77995,Reno 4Z 5G,,128,569,GO,0,299,0,,95465,Black,95465,True,13495,True,UnlimitedExtra+.json
+100412,4,,256,1284,GO,0,689,0,,112613,Grey,112613,True,13687,True,UnlimitedExtra+.json
+104827,iPhone 11,,64,567,GO,0,589,0,,104826,Black,104826,False,13337,True,UnlimitedExtra+.json
+104827,iPhone 11,,128,569,GO,0,645,0,,112252,Black,112252,True,13338,True,UnlimitedExtra+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Graphite,108761,True,13698,True,UnlimitedExtra+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,White,108762,True,13699,True,UnlimitedExtra+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Green,108763,True,13700,True,UnlimitedExtra+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Purple,108764,False,13701,True,UnlimitedExtra+.json
+97330,Reno 6 5G,,128,569,GO,0,505,0,,97329,Black,97329,True,13620,True,UnlimitedExtra+.json
+97324,Galaxy A03S,,32,565,GO,0,149,0,,97323,Black,97323,True,13619,True,UnlimitedExtra+.json
+112256,11T,,128,569,GO,0,534,0,,112255,Grey,112255,True,13709,True,UnlimitedExtra+.json
+91835,Find X3 Neo 5G,,256,1284,GO,0,755,0,,95483,Black,95483,False,13536,False,UnlimitedExtra+.json
+93039,X10,,64,567,GO,0,289,0,,95534,Green,95534,True,13568,True,UnlimitedExtra+.json
+60232,Galaxy A32 5G,,128,569,GO,0,295,0,,95456,Black,95456,True,13415,True,UnlimitedExtra+.json
+77977,Galaxy Xcover 5,,64,567,GO,0,289,0,,95459,Black,95459,True,13454,True,UnlimitedExtra+.json
+78031,Mi 11 Lite 5G,,128,569,GO,0,389,0,,95469,Green,95469,True,13558,True,UnlimitedExtra+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Black,95477,True,13531,True,UnlimitedExtra+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Purple,95478,True,13532,True,UnlimitedExtra+.json
+92939,P Smart 2021,,128,569,GO,0,225,0,,95531,Black,95531,False,13565,False,UnlimitedExtra+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Green,95519,True,13561,True,UnlimitedExtra+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Purple,95520,True,13562,True,UnlimitedExtra+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Black,95521,True,13563,True,UnlimitedExtra+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,White,95522,True,13564,True,UnlimitedExtra+.json
+93021,8050,,16,563,GO,0,219,0,,97320,Graphite,97320,True,13560,True,UnlimitedExtra+.json
+96322,iPhone 13 mini,,128,569,GO,0,815,0,,96316,Midnight,96313,True,13643,True,UnlimitedMax+.json
+96322,iPhone 13 mini,,128,569,GO,0,815,0,,96316,Starlight,96314,False,13644,True,UnlimitedMax+.json
+96322,iPhone 13 mini,,128,569,GO,0,815,0,,96316,Blue,96316,False,13646,True,UnlimitedMax+.json
+96322,iPhone 13 mini,,256,1284,GO,0,939,0,,96320,Midnight,96317,True,13647,True,UnlimitedMax+.json
+96322,iPhone 13 mini,,256,1284,GO,0,939,0,,96320,Starlight,96318,False,13648,True,UnlimitedMax+.json
+96322,iPhone 13 mini,,256,1284,GO,0,939,0,,96320,Pink,98205,False,13649,True,UnlimitedMax+.json
+96322,iPhone 13 mini,,256,1284,GO,0,939,0,,96320,Blue,96320,False,13650,True,UnlimitedMax+.json
+96322,iPhone 13 mini,,512,1842,GO,104,1175,0,,96321,Midnight,96321,False,13651,True,UnlimitedMax+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Midnight,96277,True,13631,True,UnlimitedMax+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Starlight,96278,True,13632,True,UnlimitedMax+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Pink,107396,True,13633,True,UnlimitedMax+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Red,96280,True,13634,True,UnlimitedMax+.json
+96288,iPhone 13,,128,569,GO,0,919,0,,96281,Blue,96281,True,13635,True,UnlimitedMax+.json
+96288,iPhone 13,,256,1284,GO,0,1045,0,,96286,Midnight,96282,True,13636,True,UnlimitedMax+.json
+96288,iPhone 13,,256,1284,GO,0,1045,0,,96286,Starlight,96283,True,13637,True,UnlimitedMax+.json
+96288,iPhone 13,,256,1284,GO,0,1045,0,,96286,Pink,96284,True,13638,True,UnlimitedMax+.json
+96288,iPhone 13,,256,1284,GO,0,1045,0,,96286,Red,96285,True,13639,True,UnlimitedMax+.json
+96288,iPhone 13,,256,1284,GO,0,1045,0,,96286,Blue,96286,True,13640,True,UnlimitedMax+.json
+96288,iPhone 13,,512,1842,GO,194,1279,0,,96287,Midnight,96287,False,13641,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,128,569,GO,104,1175,0,,96346,Silver,96344,True,13653,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,128,569,GO,104,1175,0,,96346,Graphite,96343,False,13652,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,128,569,GO,104,1175,0,,96346,Gold,96345,True,13654,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,128,569,GO,104,1175,0,,96346,Sierra blue,96346,True,13655,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,256,1284,GO,212,1298,0,,96350,Graphite,96347,True,13656,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,256,1284,GO,212,1298,0,,96350,Silver,96348,True,13657,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,256,1284,GO,212,1298,0,,96350,Gold,96349,True,13658,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,256,1284,GO,212,1298,0,,96350,Sierra blue,96350,True,13659,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,512,1842,GO,417,1535,0,,96352,Graphite,96351,True,13660,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,512,1842,GO,417,1535,0,,96352,Sierra blue,96352,True,13661,True,UnlimitedMax+.json
+96354,iPhone 13 Pro,,1,1894,TO,622,1771,0,,96353,Graphite,96353,True,13662,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,128,569,GO,194,1279,0,,96382,Graphite,96379,True,13663,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,128,569,GO,194,1279,0,,96382,Silver,96380,True,13664,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,128,569,GO,194,1279,0,,96382,Gold,96381,True,13665,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,128,569,GO,194,1279,0,,96382,Sierra blue,96382,True,13666,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,300,1405,0,,96386,Graphite,96383,True,13667,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,300,1405,0,,96386,Silver,96384,True,13668,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,300,1405,0,,96386,Gold,96385,True,13669,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,256,1284,GO,300,1405,0,,96386,Sierra blue,96386,True,13670,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,506,1639,0,,96388,Graphite,96387,True,13671,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,512,1842,GO,506,1639,0,,96388,Sierra blue,96388,True,13672,True,UnlimitedMax+.json
+96390,iPhone 13 Pro Max,,1,1894,TO,712,1875,0,,96389,Graphite,96389,True,13673,True,UnlimitedMax+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,72,1139,0,,95489,Black,95486,True,13543,True,UnlimitedMax+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,72,1139,0,,95489,White,95487,False,13544,True,UnlimitedMax+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,72,1139,0,,95489,Green,95488,False,13545,True,UnlimitedMax+.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,72,1139,0,,95489,Purple,95489,False,13546,True,UnlimitedMax+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,703,1865,0,,97719,Green,97718,True,13548,True,UnlimitedMax+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,703,1865,0,,97719,Black,97717,False,13547,True,UnlimitedMax+.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,703,1865,0,,97719,Silver,97719,True,13549,True,UnlimitedMax+.json
+36149,iPhone 12,,64,567,GO,0,815,0,,95337,Black,95336,True,13295,True,UnlimitedMax+.json
+36149,iPhone 12,,64,567,GO,0,815,0,,95337,White,95337,True,13296,True,UnlimitedMax+.json
+36149,iPhone 12,,128,569,GO,0,869,0,,112249,Black,112249,True,13300,True,UnlimitedMax+.json
+36284,iPhone 12 Pro,,256,1284,GO,212,1299,0,,100785,Graphite,100783,True,13314,True,UnlimitedMax+.json
+36284,iPhone 12 Pro,,256,1284,GO,212,1299,0,,100785,Pacific Blue,100785,True,13317,True,UnlimitedMax+.json
+36284,iPhone 12 Pro,,512,1842,GO,212,1535,639,,95367,Graphite,100786,True,13318,True,UnlimitedMax+.json
+36284,iPhone 12 Pro,,512,1842,GO,212,1535,639,,95367,Silver,95367,True,13319,True,UnlimitedMax+.json
+42463,iPhone 12 Pro Max,,256,1284,GO,300,1405,0,,95417,Graphite,95417,True,13358,True,UnlimitedMax+.json
+78049,A74 5G,,128,569,GO,0,299,0,,95474,Black,95474,True,13500,True,UnlimitedMax+.json
+77995,Reno 4Z 5G,,128,569,GO,0,299,0,,95465,Black,95465,True,13495,True,UnlimitedMax+.json
+100412,4,,256,1284,GO,0,689,0,,112613,Grey,112613,True,13687,True,UnlimitedMax+.json
+104827,iPhone 11,,64,567,GO,0,589,0,,104826,Black,104826,False,13337,True,UnlimitedMax+.json
+104827,iPhone 11,,128,569,GO,0,645,0,,112252,Black,112252,True,13338,True,UnlimitedMax+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Graphite,108761,True,13698,True,UnlimitedMax+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,White,108762,True,13699,True,UnlimitedMax+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Green,108763,True,13700,True,UnlimitedMax+.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,0,,108764,Purple,108764,False,13701,True,UnlimitedMax+.json
+97330,Reno 6 5G,,128,569,GO,0,505,0,,97329,Black,97329,True,13620,True,UnlimitedMax+.json
+97324,Galaxy A03S,,32,565,GO,0,149,0,,97323,Black,97323,True,13619,True,UnlimitedMax+.json
+112256,11T,,128,569,GO,0,534,0,,112255,Grey,112255,True,13709,True,UnlimitedMax+.json
+91835,Find X3 Neo 5G,,256,1284,GO,0,755,0,,95483,Black,95483,False,13536,False,UnlimitedMax+.json
+93039,X10,,64,567,GO,0,289,0,,95534,Green,95534,True,13568,True,UnlimitedMax+.json
+60232,Galaxy A32 5G,,128,569,GO,0,295,0,,95456,Black,95456,True,13415,True,UnlimitedMax+.json
+77977,Galaxy Xcover 5,,64,567,GO,0,289,0,,95459,Black,95459,True,13454,True,UnlimitedMax+.json
+78031,Mi 11 Lite 5G,,128,569,GO,0,389,0,,95469,Green,95469,True,13558,True,UnlimitedMax+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Black,95477,True,13531,True,UnlimitedMax+.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Purple,95478,True,13532,True,UnlimitedMax+.json
+92939,P Smart 2021,,128,569,GO,0,225,0,,95531,Black,95531,False,13565,False,UnlimitedMax+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Green,95519,True,13561,True,UnlimitedMax+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Purple,95520,True,13562,True,UnlimitedMax+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Black,95521,True,13563,True,UnlimitedMax+.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,White,95522,True,13564,True,UnlimitedMax+.json
+93021,8050,,16,563,GO,0,219,0,,97320,Graphite,97320,True,13560,True,UnlimitedMax+.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Midnight,96313,True,13643,True,watch.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Starlight,96314,False,13644,True,watch.json
+96322,iPhone 13 mini,,128,569,GO,10,815,0,,96316,Blue,96316,False,13646,True,watch.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Midnight,96317,True,13647,True,watch.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Starlight,96318,False,13648,True,watch.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Pink,98205,False,13649,True,watch.json
+96322,iPhone 13 mini,,256,1284,GO,118,939,0,,96320,Blue,96320,False,13650,True,watch.json
+96322,iPhone 13 mini,,512,1842,GO,323,1175,0,,96321,Midnight,96321,False,13651,True,watch.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Midnight,96277,True,13631,True,watch.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Starlight,96278,True,13632,True,watch.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Pink,107396,True,13633,True,watch.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Red,96280,True,13634,True,watch.json
+96288,iPhone 13,,128,569,GO,99,919,0,,96281,Blue,96281,True,13635,True,watch.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Midnight,96282,True,13636,True,watch.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Starlight,96283,True,13637,True,watch.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Pink,96284,True,13638,True,watch.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Red,96285,True,13639,True,watch.json
+96288,iPhone 13,,256,1284,GO,207,1045,0,,96286,Blue,96286,True,13640,True,watch.json
+96288,iPhone 13,,512,1842,GO,413,1279,0,,96287,Midnight,96287,False,13641,True,watch.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Silver,96344,True,13653,True,watch.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Graphite,96343,False,13652,True,watch.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Gold,96345,True,13654,True,watch.json
+96354,iPhone 13 Pro,,128,569,GO,323,1175,0,,96346,Sierra blue,96346,True,13655,True,watch.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Graphite,96347,True,13656,True,watch.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Silver,96348,True,13657,True,watch.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Gold,96349,True,13658,True,watch.json
+96354,iPhone 13 Pro,,256,1284,GO,430,1298,0,,96350,Sierra blue,96350,True,13659,True,watch.json
+96354,iPhone 13 Pro,,512,1842,GO,636,1535,0,,96352,Graphite,96351,True,13660,True,watch.json
+96354,iPhone 13 Pro,,512,1842,GO,636,1535,0,,96352,Sierra blue,96352,True,13661,True,watch.json
+96354,iPhone 13 Pro,,1,1894,TO,841,1771,0,,96353,Graphite,96353,True,13662,True,watch.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Graphite,96379,True,13663,True,watch.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Silver,96380,True,13664,True,watch.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Gold,96381,True,13665,True,watch.json
+96390,iPhone 13 Pro Max,,128,569,GO,413,1279,0,,96382,Sierra blue,96382,True,13666,True,watch.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Graphite,96383,True,13667,True,watch.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Silver,96384,True,13668,True,watch.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Gold,96385,True,13669,True,watch.json
+96390,iPhone 13 Pro Max,,256,1284,GO,519,1405,0,,96386,Sierra blue,96386,True,13670,True,watch.json
+96390,iPhone 13 Pro Max,,512,1842,GO,725,1639,0,,96388,Graphite,96387,True,13671,True,watch.json
+96390,iPhone 13 Pro Max,,512,1842,GO,725,1639,0,,96388,Sierra blue,96388,True,13672,True,watch.json
+96390,iPhone 13 Pro Max,,1,1894,TO,931,1875,0,,96389,Graphite,96389,True,13673,True,watch.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Black,95486,True,13543,True,watch.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,White,95487,False,13544,True,watch.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Green,95488,False,13545,True,watch.json
+92988,Galaxy Z Flip3 5G,,256,1284,GO,291,1139,0,,95489,Purple,95489,False,13546,True,watch.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Green,97718,True,13548,True,watch.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Black,97717,False,13547,True,watch.json
+93002,Galaxy Z Fold3 5G,,256,1284,GO,922,1865,0,,97719,Silver,97719,True,13549,True,watch.json
+36149,iPhone 12,,64,567,GO,0,815,0,,95337,Black,95336,True,13295,True,watch.json
+36149,iPhone 12,,64,567,GO,0,815,0,,95337,White,95337,True,13296,True,watch.json
+36149,iPhone 12,,128,569,GO,55,869,0,,112249,Black,112249,True,13300,True,watch.json
+36284,iPhone 12 Pro,,256,1284,GO,430,1299,0,,100785,Graphite,100783,True,13314,True,watch.json
+36284,iPhone 12 Pro,,256,1284,GO,430,1299,0,,100785,Pacific Blue,100785,True,13317,True,watch.json
+36284,iPhone 12 Pro,,512,1842,GO,636,1535,855,,95367,Graphite,100786,True,13318,True,watch.json
+36284,iPhone 12 Pro,,512,1842,GO,636,1535,855,,95367,Silver,95367,True,13319,True,watch.json
+42463,iPhone 12 Pro Max,,256,1284,GO,519,1405,0,,95417,Graphite,95417,True,13358,True,watch.json
+78049,A74 5G,,128,569,GO,0,299,0,,95474,Black,95474,True,13500,True,watch.json
+77995,Reno 4Z 5G,,128,569,GO,0,299,0,,95465,Black,95465,True,13495,True,watch.json
+100412,4,,256,1284,GO,0,689,0,,112613,Grey,112613,True,13687,True,watch.json
+104827,iPhone 11,,64,567,GO,0,589,0,,104826,Black,104826,False,13337,True,watch.json
+104827,iPhone 11,,128,569,GO,0,645,0,,112252,Black,112252,True,13338,True,watch.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,69,,108764,Graphite,108761,True,13698,True,watch.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,69,,108764,White,108762,True,13699,True,watch.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,69,,108764,Green,108763,True,13700,True,watch.json
+108765,Galaxy S21 FE 5G,,128,569,GO,0,779,69,,108764,Purple,108764,False,13701,True,watch.json
+97330,Reno 6 5G,,128,569,GO,0,505,0,,97329,Black,97329,True,13620,True,watch.json
+97324,Galaxy A03S,,32,565,GO,0,149,0,,97323,Black,97323,True,13619,True,watch.json
+112256,11T,,128,569,GO,0,534,0,,112255,Grey,112255,True,13709,True,watch.json
+91835,Find X3 Neo 5G,,256,1284,GO,0,755,0,,95483,Black,95483,False,13536,False,watch.json
+93039,X10,,64,567,GO,0,289,0,,95534,Green,95534,True,13568,True,watch.json
+60232,Galaxy A32 5G,,128,569,GO,0,295,0,,95456,Black,95456,True,13415,True,watch.json
+77977,Galaxy Xcover 5,,64,567,GO,0,289,0,,95459,Black,95459,True,13454,True,watch.json
+78031,Mi 11 Lite 5G,,128,569,GO,0,389,0,,95469,Green,95469,True,13558,True,watch.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Black,95477,True,13531,True,watch.json
+91827,Galaxy A22 5G,,128,569,GO,0,245,0,,95478,Purple,95478,True,13532,True,watch.json
+92939,P Smart 2021,,128,569,GO,0,225,0,,95531,Black,95531,False,13565,False,watch.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Green,95519,True,13561,True,watch.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Purple,95520,True,13562,True,watch.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,Black,95521,True,13563,True,watch.json
+93126,Galaxy A52 S 5G,,128,569,GO,0,45,0,,95522,White,95522,True,13564,True,watch.json
+93021,8050,,16,563,GO,0,219,0,,97320,Graphite,97320,True,13560,True,watch.json
